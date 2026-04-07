@@ -29,4 +29,14 @@ Hi, I’m Jaydip Valiya 👨‍💻<br>I’m a passionate learner and aspiring W
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydipvaliya&theme=tokyo-night&hide_border=true" />
 </div>
- 
+
+  🐍 My Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/jaydipvaliya/jaydipvaliya/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/jaydipvaliya/jaydipvaliya/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake"
+    src="https://raw.githubusercontent.com/jaydipvaliya/jaydipvaliya/output/github-contribution-grid-snake.svg" />
+</picture>

@@ -8,10 +8,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&random=false&width=600&lines=Building+things+for+the+web+%F0%9F%9A%80;Full-Stack+Dev+%7C+React+%2B+Node.js+%2B+MongoDB;Turning+coffee+into+code+%E2%98%95;Open+to+collabs+%26+cool+ideas+%F0%9F%A4%9D" alt="Typing SVG" />
 </a>
 
+ ![Profile views](https://komarev.com/ghpvc/?username=jaydipvaliya&color=blue)
 # 💫 About Me:
 Hi, I’m Jaydip Valiya 👨‍💻<br>I’m a passionate learner and aspiring Web Developer who enjoys building simple, clean, and functional web applications. I have a strong foundation in HTML, CSS, and JavaScript, and I’m continuously improving my skills by practicing coding problems and creating small projects.<br><br>I’m interested in front-end development, UI design, and exploring modern tools like React. I believe in learning by doing, and I enjoy breaking down complex problems into simple solutions.<br><br>Currently, I’m focused on sharpening my programming fundamentals, improving my problem-solving skills, and growing step by step as a developer 🚀<br>I’m always curious to learn new technologies and open to collaborating on beginner-friendly projects.
 
- ![Profile views](https://komarev.com/ghpvc/?username=jaydipvaliya&color=blue)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jr.valiya_024) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaydip-valiya-a1009737b/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jaydip-valiya) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaydip.valiya.cg@gmail.com) 
 

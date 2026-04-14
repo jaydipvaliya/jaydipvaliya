@@ -19,14 +19,14 @@ Hi, I’m Jaydip Valiya 👨‍💻<br>I’m a passionate learner and aspiring W
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)##
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 📊 GitHub Stats
  
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaydipvaliya&theme=tokyonight&hide_border=true" alt="jaydipvaliya streak"/>
 </div>
- 
+<br>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydipvaliya&theme=tokyo-night&hide_border=true" />
 </div>
@@ -41,3 +41,9 @@ Hi, I’m Jaydip Valiya 👨‍💻<br>I’m a passionate learner and aspiring W
   <img alt="github-snake"
     src="https://raw.githubusercontent.com/jaydipvaliya/jaydipvaliya/output/github-contribution-grid-snake.svg" />
 </picture>
+
+---
+<!-- Footer Wave -->
+<p align="center">
+  <i>⭐ "First, solve the problem. Then, write the code." – Jaydip Valiya</i>
+</p>
